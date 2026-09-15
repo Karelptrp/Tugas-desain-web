@@ -308,7 +308,8 @@ strong {
 footer {
 	text-align: center;
 	padding: 20px;
-	border-radius: 8px;
+	border: 1px solid var(--line);
+	border-radius: 14px;
 	background-color: #e86f51;
 	color: #c6bbaa;
 }
