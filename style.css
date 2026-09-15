@@ -31,7 +31,9 @@ body {
 		radial-gradient(circle at 94% 86%, rgba(24, 124, 120, 0.13), transparent 26%),
 		var(--cream);
 }
-
+footer {
+	display: block;
+}
 body::before {
 	content: "";
 	display: block;
