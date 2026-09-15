@@ -219,6 +219,10 @@ tr:nth-child(even) td {
 
 form {
 	max-width: 640px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 10px;
 	padding: 26px;
 	border: 1px solid var(--line);
 	border-radius: 14px;
