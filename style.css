@@ -32,7 +32,6 @@ body {
 		var(--cream);
 }
 
-
 body::before {
 	content: "";
 	display: block;
@@ -290,11 +289,4 @@ strong {
 	form {
 	padding: 20px;
 	}
-}
-
-footer {
-	text-align: center;
-	padding: 5px;
-	background-color: #e86f51;
-	color: #c6bbaa;
 }
