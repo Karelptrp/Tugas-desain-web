@@ -31,9 +31,14 @@ body {
 		radial-gradient(circle at 94% 86%, rgba(24, 124, 120, 0.13), transparent 26%),
 		var(--cream);
 }
+
 footer {
-	display: block;
+	text-align: center;
+	padding: 5px;
+	background-color: #e86f51;
+	color: #c6bbaa;
 }
+
 body::before {
 	content: "";
 	display: block;
