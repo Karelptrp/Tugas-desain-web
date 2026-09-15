@@ -69,11 +69,7 @@ body > footer {
 	min-height: 200px;
 }
 
-footer {
-	background: #c6bbaa;
-	padding: 20px;
-	border-radius: 8px;
-}
+
 
 h1 {
 	margin: 0;
@@ -311,7 +307,12 @@ strong {
 
 footer {
 	text-align: center;
-	padding: 5px;
+	padding: 20px;
+	border-radius: 8px;
 	background-color: #e86f51;
 	color: #c6bbaa;
+}
+
+small {
+	color: #263238;
 }
