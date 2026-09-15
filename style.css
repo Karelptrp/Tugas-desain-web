@@ -32,12 +32,6 @@ body {
 		var(--cream);
 }
 
-footer {
-	text-align: center;
-	padding: 5px;
-	background-color: #e86f51;
-	color: #c6bbaa;
-}
 
 body::before {
 	content: "";
@@ -296,4 +290,11 @@ strong {
 	form {
 	padding: 20px;
 	}
+}
+
+footer {
+	text-align: center;
+	padding: 5px;
+	background-color: #e86f51;
+	color: #c6bbaa;
 }
