@@ -295,6 +295,6 @@ strong {
 footer {
 	text-align: center;
 	padding: 5px;
-	background-color: #e86f51;
+	background-color: #e86f51 !important;
 	color: #c6bbaa;
 }
